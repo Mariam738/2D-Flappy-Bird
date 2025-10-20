@@ -2,6 +2,8 @@
 
 ## Demo Video 🎬
 
+https://github.com/user-attachments/assets/32d1ca6b-f0d2-4ad2-95f4-7b3b32303c82
+
 ## Steps 🔢 
 
 * 2D URP Project
